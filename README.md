@@ -1,3 +1,3 @@
 # Arduino-solder-fan-project
 
-A simple project that takes a Keyes IR Obstacle Avoidance Sensor Module, an Arduino, and a solder fan so that when the solder iron is removed from the holder the solder fan will activate. 
+A DIY Automatic Solder Fan is a way to automatically have our solder fan run every time our iron is removed from its stand and then automatically turn off when its placed back in the stand. This way we never have to mess with turning our fan on and off and we will always be removing solder fumes!
